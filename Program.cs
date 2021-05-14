@@ -1,0 +1,1 @@
+﻿System.Array.ForEach(System.Diagnostics.Process.GetProcessesByName("node"), p => p.Kill(true));

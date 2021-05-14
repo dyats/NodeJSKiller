@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31112.23
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NodeJSKiller", "NodeJSKiller.csproj", "{3C5F6DE7-92BE-4958-8537-71F5002FF097}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3C5F6DE7-92BE-4958-8537-71F5002FF097}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3C5F6DE7-92BE-4958-8537-71F5002FF097}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3C5F6DE7-92BE-4958-8537-71F5002FF097}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3C5F6DE7-92BE-4958-8537-71F5002FF097}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {88D695E1-060C-4783-8567-500FCA604CB5}
+	EndGlobalSection
+EndGlobal
