@@ -3,6 +3,17 @@
   <PropertyGroup>
     <OutputType>Exe</OutputType>
     <TargetFramework>net5.0</TargetFramework>
+    <ApplicationIcon>nodejs-logo-red.ico</ApplicationIcon>
+    <Company>Yats Inc.</Company>
+    <Authors>DennY.</Authors>
+    <PackageIcon>nodejs-logo-red.png</PackageIcon>
   </PropertyGroup>
+
+  <ItemGroup>
+    <None Include="C:\Users\DennY\Desktop\nodejs-logo-red.png">
+      <Pack>True</Pack>
+      <PackagePath></PackagePath>
+    </None>
+  </ItemGroup>
 
 </Project>
