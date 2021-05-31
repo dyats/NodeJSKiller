@@ -1,0 +1,3 @@
+# NodeJSKiller
+
+Save your PC.
